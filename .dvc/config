@@ -3,3 +3,4 @@
 ['remote "storage"']
     url = azure://myremote/
     account_name = storageubs
+    
