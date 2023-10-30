@@ -1,5 +1,5 @@
 outs:
-- md5: c157a79031e1c40f85931829bc5fc552
-  size: 4
+- md5: 19ead7775b57d566e5044e3586832655
+  size: 9
   hash: md5
   path: foo.txt
